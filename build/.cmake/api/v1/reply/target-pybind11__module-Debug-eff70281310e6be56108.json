@@ -1,0 +1,100 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include",
+			"set_property"
+		],
+		"files" : 
+		[
+			"pybind11/tools/pybind11Common.cmake",
+			"pybind11/CMakeLists.txt",
+			"pybind11/tools/pybind11NewTools.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 298,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 75,
+				"parent" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 76,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 243,
+				"parent" : 6
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "pybind11::module::@ea61fbb5e2027680e1c7",
+	"imported" : true,
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "pybind11::pybind11::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "Python::Module::@6890427a1f51a3e7e1df"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "pybind11::pybind11::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "Python::Module::@6890427a1f51a3e7e1df"
+		}
+	],
+	"name" : "pybind11::module",
+	"paths" : 
+	{
+		"build" : "pybind11",
+		"source" : "pybind11"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

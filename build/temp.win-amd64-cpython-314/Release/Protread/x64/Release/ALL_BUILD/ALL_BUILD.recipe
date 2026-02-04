@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gian\OneDrive\Desktop\Protread\build\temp.win-amd64-cpython-314\Release\Protread\x64\Release\ZERO_CHECK</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gian\OneDrive\Desktop\Protread\build\lib.win-amd64-cpython-314\Protread.cp314-win_amd64.pyd</FullPath>
+    </ProjectOutput>
+    <ProjectOutput>
+      <FullPath>C:\Users\Gian\OneDrive\Desktop\Protread\build\temp.win-amd64-cpython-314\Release\Protread\x64\Release\ALL_BUILD</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles />
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

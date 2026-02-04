@@ -1,0 +1,54 @@
+{
+	"abstract" : true,
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include"
+		],
+		"files" : 
+		[
+			"pybind11/tools/pybind11Common.cmake",
+			"pybind11/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 298,
+				"parent" : 0
+			},
+			{
+				"file" : 0,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 121,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "pybind11::windows_extras::@ea61fbb5e2027680e1c7",
+	"imported" : true,
+	"name" : "pybind11::windows_extras",
+	"paths" : 
+	{
+		"build" : "pybind11",
+		"source" : "pybind11"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

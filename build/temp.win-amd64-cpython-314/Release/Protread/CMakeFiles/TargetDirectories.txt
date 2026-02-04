@@ -1,0 +1,5 @@
+C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/CMakeFiles/ProtreadCPP.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/CMakeFiles/Protread.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/CMakeFiles/ALL_BUILD.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/pybind11/CMakeFiles/ALL_BUILD.dir

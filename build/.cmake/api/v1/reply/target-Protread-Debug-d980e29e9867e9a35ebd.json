@@ -1,0 +1,270 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Protread.cp314-win_amd64.pyd"
+		},
+		{
+			"path" : "Protread.pdb"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"__Python_add_library",
+			"python_add_library",
+			"pybind11_add_module",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython/Support.cmake",
+			"C:/Program Files/CMake/share/cmake-4.2/Modules/FindPython.cmake:760:EVAL",
+			"pybind11/tools/pybind11NewTools.cmake",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 269,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 2,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4439,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 4448,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 276,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 279,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 310,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 324,
+				"parent" : 1
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"compileDependencies" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "Python::Module::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "pybind11_headers::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "pybind11::module::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "pybind11::lto::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "pybind11::windows_extras::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "ProtreadCPP::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "OpenMP::OpenMP_CXX::@6890427a1f51a3e7e1df"
+		}
+	],
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "/DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -RTC1 -Zi"
+				},
+				{
+					"backtrace" : 10,
+					"fragment" : "/bigobj"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-openmp"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "Protread_EXPORTS"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "Py_NO_LINK_LIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"isSystem" : true,
+					"path" : "C:/Users/Gian/AppData/Local/Python/pythoncore-3.14-64/Include"
+				},
+				{
+					"backtrace" : 7,
+					"isSystem" : true,
+					"path" : "C:/Users/Gian/OneDrive/Desktop/Protread/pybind11/include"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 6,
+			"id" : "ProtreadCPP::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "Protread::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "/machine:x64 /debug /INCREMENTAL",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Users\\Gian\\AppData\\Local\\Python\\pythoncore-3.14-64\\libs\\python314.lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "ProtreadCPP.lib",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"linkLibraries" : 
+	[
+		{
+			"backtrace" : 5,
+			"id" : "Python::Module::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 7,
+			"id" : "pybind11_headers::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "pybind11::module::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 9,
+			"id" : "pybind11::lto::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "pybind11::windows_extras::@ea61fbb5e2027680e1c7"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "ProtreadCPP::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 6,
+			"id" : "OpenMP::OpenMP_CXX::@6890427a1f51a3e7e1df"
+		}
+	],
+	"name" : "Protread",
+	"nameOnDisk" : "Protread.cp314-win_amd64.pyd",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "src/binder.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "MODULE_LIBRARY"
+}

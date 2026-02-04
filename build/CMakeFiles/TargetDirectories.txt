@@ -1,0 +1,6 @@
+C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/ProtreadCPP.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/Protread.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/edit_cache.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/pybind11/CMakeFiles/edit_cache.dir
+C:/Users/Gian/OneDrive/Desktop/Protread/build/pybind11/CMakeFiles/rebuild_cache.dir

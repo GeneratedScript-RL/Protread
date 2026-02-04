@@ -1,0 +1,10 @@
+^C:\USERS\GIAN\ONEDRIVE\DESKTOP\PROTREAD\BUILD\TEMP.WIN-AMD64-CPYTHON-312\RELEASE\PROTREAD\CMAKEFILES\F5C497B8B73050F4CD8BA773059C00D0\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Gian/OneDrive/Desktop/Protread -BC:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-312/Release/Protread --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-312/Release/Protread/Protread.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

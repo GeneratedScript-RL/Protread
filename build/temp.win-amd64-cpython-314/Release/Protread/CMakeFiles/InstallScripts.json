@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/cmake_install.cmake",
+		"C:/Users/Gian/OneDrive/Desktop/Protread/build/temp.win-amd64-cpython-314/Release/Protread/pybind11/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

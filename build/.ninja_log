@@ -1,0 +1,5 @@
+# ninja log v6
+4	482	7918719401496176	CMakeFiles/ProtreadCPP.dir/src/Protread.cpp.obj	3ed23227198a99e0
+22	73	7918720956139649	ProtreadCPP.lib	be6a2df2d6a9c3ec
+30	1549	7918720956209846	CMakeFiles/Protread.dir/src/binder.cpp.obj	ed09092478741d4b
+1551	1857	7918720971433883	Protread.cp314-win_amd64.pyd	ac80bd45c2f5356b

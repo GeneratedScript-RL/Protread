@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Gian/OneDrive/Desktop/Protread/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -RTC1 -Zi /O2 /arch:AVX2 /openmp /FoCMakeFiles\\ProtreadCPP.dir\\src\\Protread.cpp.obj /FdCMakeFiles\\ProtreadCPP.dir\\ProtreadCPP.pdb /FS -c C:\\Users\\Gian\\OneDrive\\Desktop\\Protread\\src\\Protread.cpp",
+  "file": "C:/Users/Gian/OneDrive/Desktop/Protread/src/Protread.cpp",
+  "output": "C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/ProtreadCPP.dir/src/Protread.cpp.obj"
+},
+{
+  "directory": "C:/Users/Gian/OneDrive/Desktop/Protread/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DProtread_EXPORTS -DPy_NO_LINK_LIB -external:IC:\\Users\\Gian\\AppData\\Local\\Python\\pythoncore-3.14-64\\Include -external:IC:\\Users\\Gian\\OneDrive\\Desktop\\Protread\\pybind11\\include -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -MDd -RTC1 -Zi /bigobj -openmp /FoCMakeFiles\\Protread.dir\\src\\binder.cpp.obj /FdCMakeFiles\\Protread.dir\\ /FS -c C:\\Users\\Gian\\OneDrive\\Desktop\\Protread\\src\\binder.cpp",
+  "file": "C:/Users/Gian/OneDrive/Desktop/Protread/src/binder.cpp",
+  "output": "C:/Users/Gian/OneDrive/Desktop/Protread/build/CMakeFiles/Protread.dir/src/binder.cpp.obj"
+}
+]

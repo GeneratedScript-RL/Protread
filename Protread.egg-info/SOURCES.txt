@@ -1,0 +1,7 @@
+setup.py
+Protread.egg-info/PKG-INFO
+Protread.egg-info/SOURCES.txt
+Protread.egg-info/dependency_links.txt
+Protread.egg-info/not-zip-safe
+Protread.egg-info/requires.txt
+Protread.egg-info/top_level.txt
